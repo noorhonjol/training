@@ -11,6 +11,7 @@ export default class arr{
             this.#MyArray=this.#genArray(ArrOrlenGen);
         }
     };
+console.log("sss");
 
     #genArray(length){
         let NewArray=[]
